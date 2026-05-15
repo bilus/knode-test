@@ -1,3 +1,3 @@
-# Welcome
+# Hello
 
 This is the wiki.
