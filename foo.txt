@@ -1,1 +1,2 @@
-Hello, marcin\nfoo bar
+Hello, marcin
+foo bar
